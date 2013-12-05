@@ -1,0 +1,17 @@
+{
+  "name": "angular-underscore-string",
+  "version": "0.1.0",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "description": "Underscore.string as Angular filters",
+  "main": "underscore.string.js",
+  "keywords": [
+    "angular",
+    "underscore",
+    "string",
+    "filter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tlvince/angular-underscore-string"
+}
