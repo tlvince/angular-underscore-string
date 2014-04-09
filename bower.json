@@ -5,7 +5,7 @@
     "Tom Vincent <git@tlvince.com>"
   ],
   "description": "Underscore.string as Angular filters",
-  "main": "underscore.string.js",
+  "main": "angular-underscore-string.js",
   "keywords": [
     "angular",
     "underscore",
