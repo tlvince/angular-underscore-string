@@ -2,14 +2,16 @@
 
 > Underscore.string as Angular filters
 
-Assumes Underscore.string has been added to the global scope.
+Assumes [Underscore.string][] (>= v3.x) has been added to the global scope.
 
 Examples:
 
 ```html
-{{ name | _.str: 'swapCase' }}
-{{ separator | _.str: 'join': ['foo', 'bar'] }}
+{{ name | s: 'swapCase' }}
+{{ separator | s: 'join': ['foo', 'bar'] }}
 ```
+
+[underscore.string]: http://epeli.github.io/underscore.string/
 
 ## Install
 
